@@ -1,5 +1,10 @@
+This is unfinished version.
+
+The finished version is a private repo now due to the university policy.
+
 # econ457
 ECON457 2018
+
 
 Textbook: Applied Computational Economics and Finance
 
